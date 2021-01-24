@@ -30,7 +30,7 @@ I prefer to work on the bigger picture of things. I have a lot of ideas that I l
 
 *Talk about your preferred development environment. What is your current setup? What do you like the most? What would you change?*
 
-My current set up is coding on my labtop and having my mac destop in case I need to troubleshoop whether its stackoverflow or youtube. I like to work in agile development on a team where do daily stand ups and using a project management app like trello or jira. One thing I would change is having better communication prior or after stand up.
+My current set up is coding on my labtop and having my mac desktop in case I need to troubleshoop whether its stackoverflow or youtube. I like to work in agile development on a team where do daily stand ups and using a project management app like trello or jira. One thing I would change is having better communication prior or after stand up.
 
 *If you could master one technology this year, what would it be? Is there something specific about this technology that excites you?*
 
